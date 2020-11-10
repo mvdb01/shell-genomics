@@ -61,12 +61,9 @@ downloading the data and downloading and installing all of the software,
 we're going to be working with data on a remote server. 
 
 You can log-in to the remote server using the instructions 
-[here](http://www.datacarpentry.org/cloud-genomics/02-logging-onto-cloud/#logging-onto-a-cloud-instance). 
-Your instructor will supply the `ip_address` and password that you need to login.
+[here](http://mvdb01.github.io/cloud-genomics/02-logging-onto-cloud/#logging-onto-the-tu-delft-linux-environment). 
+Your instructor will supply the `hostname` that you need to login.
 
-Each of you will have a different `ip_address`. This will 
-prevent us from accidentally changing each other's files as we work through the
-exercises. The password will be the same for everyone. 
 
 After logging in, you will see a screen showing something like this: 
 
