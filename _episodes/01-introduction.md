@@ -106,6 +106,31 @@ This will scroll your screen down to give you a fresh screen and will make it ea
 You haven't lost any of the information on your screen. If you scroll up, you can see everything that has been output to your screen
 up until this point.
 
+## Loading of the conda environment and course material
+
+All Bioinformatics software that will be used during this course is all ready installed but we need tell the system where they are by loading the environment.
+
+~~~
+$ source /mnt/linapps/conda3loader
+~~~
+{: .bash}
+
+And activate it:
+
+~~~
+$ conda activate DCW
+~~~
+{: .bash}
+
+Next we need to copy the course material with the cp (copy) command which will be explained in detail during the course.
+
+~~~
+$ cp -r /mnt/linapps/carpentry/shell_data/ .
+~~~
+{: .bash}
+
+
+
 ## Navigating your file system
 
 The part of the operating system responsible for managing files and directories
