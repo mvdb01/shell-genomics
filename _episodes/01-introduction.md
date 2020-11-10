@@ -170,7 +170,7 @@ i.e.,
 the directory that the computer assumes we want to run commands in,
 unless we explicitly specify something else.
 Here,
-the computer's response is `/home/dcuser`,
+the computer's response is `/home/nfs/YOUR-NETID`,
 which is the top level directory within our cloud system:
 
 ~~~
@@ -179,7 +179,7 @@ $ pwd
 {: .bash}
 
 ~~~
-/home/dcuser
+/home/nfs/YOUR-NETID
 ~~~
 {: .output}
 
