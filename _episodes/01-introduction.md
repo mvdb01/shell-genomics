@@ -125,7 +125,7 @@ $ conda activate DCW
 Next we need to copy the course material with the cp (copy) command which will be explained in detail during the course.
 
 ~~~
-$ cp -r /mnt/linapps/carpentry/shell_data/ .
+$ cp -r /mnt/linapps/share/shell_data/ .
 ~~~
 {: .bash}
 
